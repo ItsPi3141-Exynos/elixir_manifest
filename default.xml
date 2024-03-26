@@ -1212,6 +1212,9 @@
 
   <!-- ArrowOS -->
   <include name="snippets/arrow.xml" />
+
+  <!-- Exynos 8895 stuff -->
+  <include name="snippets/exynos8895.xml" />
   
   <!-- END open-source projects -->
 </manifest>

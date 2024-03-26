@@ -17,16 +17,14 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 * WORKSPACE with your directory for the rest of this guide.
 * This can be located anywhere (as long as the fs is case-sensitive)
 
-```
-mkdir WORKSPACE
-```
-```
-cd WORKSPACE
+```bash
+mkdir elixir
+cd elixir
 ```
 
 ### Install Repo in the created directory
 ```bash
-repo init -u https://github.com/Project-Elixir/manifest -b Tiramisu
+repo init -u https://github.com/Project-Elixir/manifest -b Tiramisu --depth=1 --git-lfs
 ```
 
 ### Download the source

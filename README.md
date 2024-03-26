@@ -24,7 +24,7 @@ cd elixir
 
 ### Install Repo in the created directory
 ```bash
-repo init -u https://github.com/Project-Elixir/manifest -b Tiramisu --depth=1 --git-lfs
+repo init -u https://github.com/ItsPi3141-Exynos/elixir_manifest -b Tiramisu --depth=1 --git-lfs
 ```
 
 ### Download the source

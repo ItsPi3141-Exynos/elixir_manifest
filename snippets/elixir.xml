@@ -58,7 +58,7 @@
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="elixir"  clone-depth="1" />
   <project path="hardware/mediatek" name="hardware_mediatek" remote="elixir"  clone-depth="1" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="elixir" revision="UNO-QPR2" clone-depth="1" />
-  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces"  remote="elixir" clone-depth="1" />
+  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" revision="UNO-Public" remote="elixir" clone-depth="1" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="elixir" revision="UNO-QPR2" clone-depth="1" />
   <project path="hardware/google/pixel-sepolicy" name="hardware_google_pixel-sepolicy" remote="elixir" clone-depth="1" />
   <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" groups="qcom,kailua-vendor" revision="UNO-QPR2" remote="elixir" />
